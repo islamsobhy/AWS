@@ -2,3 +2,7 @@ route 53 records- TTL
   TTL (Time to Live) in Amazon Route 53 refers to the duration, in seconds, that DNS records are cached by DNS resolvers and clients. 
   A lower TTL value means that DNS resolvers will cache the record for a shorter period, which can lead to increased traffic to Route 53 but ensures that the records are more up-to-date. 
   On the other hand, a higher TTL value reduces the traffic to Route 53, but it also means that changes to DNS records may take longer to propagate.
+
+
+Routing Policies 
+ 1-Simple 
