@@ -6,3 +6,7 @@ route 53 records- TTL
 
 Routing Policies 
  1-Simple 
+2-Weighted
+3-failover 
+4-Geolocation 
+5-Latency-Based
